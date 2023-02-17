@@ -1,7 +1,7 @@
 #include "amf.h"
 #include "net/BufferWriter.h"
 #include "net/BufferReader.h"
-//込込123123
+//込込12312351252
 using namespace xop;
 
 int AmfDecoder::decode(const char *data, int size, int n)
